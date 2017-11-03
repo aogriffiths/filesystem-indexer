@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Adam Griffiths <aogriffiths@gmail.com>",
-  "license": "MIT",
-  "private": null
+  "license": "MIT"
 }
